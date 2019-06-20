@@ -1,0 +1,27 @@
+#####################################################################
+
+create sản phẩm
+
+<style>
+        option {
+            background-color: #4E5451;
+            border: none;
+        }
+        
+        #cke_1_bottom,
+        #cke_1_top,
+        #cke_2_top,
+        #cke_2_bottom {
+            background-color: #9BA893;
+        }
+        
+        .cke_editable {
+            background-color: #F3F3F3;
+        }
+        
+        .inline-group {
+            display: inline-flex;
+        }
+</style>
+
+    #############################################################3
